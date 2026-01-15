@@ -1,6 +1,6 @@
 # Movie Picker
 
-A movie recommendation system built for Tech Labs data science winter 2025 project. Suggests movies based on genres or titles using a similarity matrix. You can use it via a command-line interface (CLI) or a Streamlit web app.
+A movie recommendation system. Suggests movies based on genres or titles using a similarity matrix. You can use it via a command-line interface (CLI) or a Streamlit web app.
 
 ## Features
 - Filter movies by genre (e.g., Action, Comedy).
